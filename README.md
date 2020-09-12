@@ -11,4 +11,6 @@
     Algoritmos Supervisionados
     Algoritmos Não-Supervisionados
     Scraping de dados
-    
+    Introdução do SQL com MySQL
+    Consultas no SQL
+    Manipulação de dados no SQL
